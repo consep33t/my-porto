@@ -14,7 +14,7 @@ const About = () => {
           transition={{ duration: 0.7, ease: 'easeOut' }}
         >
           <img 
-            src="/src/assets/profile.jpeg"
+            src="/public/profile.jpeg"
             alt="Foto Profil" 
             className="rounded-lg shadow-2xl w-full max-w-md mx-auto aspect-square object-cover"
           />

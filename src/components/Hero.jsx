@@ -29,7 +29,7 @@ const Hero = () => {
       animate="visible"
     >
       <motion.img 
-        src="/src/assets/profile.jpeg"
+        src="/public/profile.jpeg"
         alt="Foto Profil"
         className="w-40 h-40 rounded-full mb-8 object-cover"
         variants={itemVariants}
