@@ -14,7 +14,7 @@ const About = () => {
           transition={{ duration: 0.7, ease: 'easeOut' }}
         >
           <img 
-            src="/public/profile.jpeg"
+            src="/profile.jpeg"
             alt="Foto Profil" 
             className="rounded-lg shadow-2xl w-full max-w-md mx-auto aspect-square object-cover"
           />
@@ -39,7 +39,7 @@ const About = () => {
             dan pengalaman pengguna.
           </p>
           <a 
-            href="/src/assets/CV_Ageng_Prayoga_ATS.pdf"
+            href="/CV_Ageng_Prayoga_ATS.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-4 px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-lg hover:bg-blue-700 transition-colors"
